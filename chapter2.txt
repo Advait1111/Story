@@ -1,2 +1,6 @@
 I am chapter 2.
+<<<<<<< HEAD
 I am edited in master branch.
+=======
+I am edited in alien-plot.
+>>>>>>> alien-plot
